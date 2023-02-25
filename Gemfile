@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "alembic-jekyll-theme"
 gem "jekyll", "~> 4.1"
 gem "jekyll-sitemap", "~> 1.4.0"
 gem "jekyll-mentions", "~> 1.6.0"
@@ -11,5 +12,4 @@ gem "jekyll-commonmark", "~> 1.3.1"
 gem "jekyll-include-cache", "~> 0.2"
 gem "jemoji", "~> 0.12"
 gem "jekyll-remote-theme", "~> 0.3"
-
 gem "webrick", "~> 1.8"
