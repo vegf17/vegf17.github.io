@@ -1,55 +1,81 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-theme: minima
+# 2. Installed Gems
 plugins:
-  - jekyll-feed
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "quantUM group" # Site name or title, also used in jekyll-seo-tag
+#logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "Quantum group of the University of Minho" # Site description and default description, also used in jekyll-seo-tag
+url: "https://vegf17.github.io/" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+#css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: News
+  url: /news/
+- title: Members
+  url: /members/
+- title: Seminars
+  url: /seminars/
+#- title: Search
+#  url: /search/
+#- title: Fork Alembic
+#  url: https://github.com/daviddarnes/alembic
+#- title: 404
+#  url: /404/
+
+navigation_footer:
+- title: Back to top
+  url: "#top"
+#- title: Template created by David Darnes
+#  url: https://darn.es
+
+# Load custom fonts from fonts.google.com etc
 #
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# TIP: Try to keep the number of urls as low to reduce the performance cost
+#      If multiple fonts can be requested in a single url opt for this
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
