@@ -6,7 +6,9 @@ title:
 # feature_image: "images/prometeu.jpeg"
 #excerpt: ""
 ---
-![image](images/1.jpg | width=100)
+
+<img src="images/1.jpg" width="250">
+
 
 ### About me
 * PhD student in the University of Minho
@@ -18,7 +20,7 @@ title:
 
 ### Publications
 
-### Students
-* Maria Inês Machado (2023; co-supervisor)
+### Supervision
+* Maria Inês Machado (2023; co-supervision)
 
 
