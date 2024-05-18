@@ -22,7 +22,7 @@ plugins:
 # Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "quantUM group" # Site name or title, also used in jekyll-seo-tag
+title: "Vitor Fernandes" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Quantum group of the University of Minho" # Site description and default description, also used in jekyll-seo-tag
 url: "https://vegf17.github.io/" # Site url, also used in jekyll-seo-tag
@@ -33,12 +33,6 @@ baseurl: ""
 navigation_header:
 - title: Home
   url: /
-- title: News
-  url: /news/
-- title: Members
-  url: /members/
-- title: Seminars
-  url: /seminars/
 
 navigation_footer:
 - title: Back to top
