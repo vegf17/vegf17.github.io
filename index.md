@@ -19,6 +19,7 @@ title:
 
 
 ### Publications
+[[Technical report Event Structures]({{ site.url }}//docs/es.pdf)]
 
 ### Supervision
 * Maria Inês Machado (2023; co-supervision)
