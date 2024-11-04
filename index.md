@@ -39,14 +39,14 @@ probabilistic and quantum.
 
   **Authors:** Carlos Tavares, Sofia Oliveira, Vitor Fernandes, Andrei Postnikov, Mikhail Vasilevskiy
   
-  **File:** [[PDF](https://repositorium.sdum.uminho.pt/bitstream/1822/91179/1/Soft_Computing_2021_Quantum_Simulation.pdf)]
+  **File:** [[pdf](https://repositorium.sdum.uminho.pt/bitstream/1822/91179/1/Soft_Computing_2021_Quantum_Simulation.pdf)]
 
 
 * **Title:** Calculation of the ground-state Stark effect in small molecules using the variational quantum eigensolver
 
   **Authors:** Carlos Tavares, Sofia Oliveira, Vitor Fernandes, Andrei Postnikov, Mikhail Vasilevskiy
   
-  **File:** [[Arxiv](https://arxiv.org/pdf/2103.11743)]
+  **File:** [[pdf](https://arxiv.org/pdf/2103.11743)]
 
 ### 2020
 * **Title:** A type system for simple quantum processes
@@ -54,7 +54,7 @@ probabilistic and quantum.
   **Authors:** Vítor Fernandes, Renato Neves, Luís Soares Barbosa
   
   **File:** [[pdf](https://klee.di.uminho.pt/pdfs/FNB20.pdf)]
-  	    [[EUTYPES-TYPES 2020 - Abstracts](https://types2020.di.unito.it/abstracts/BookOfAbstractsTYPES2020.pdf)]
+  	    [[EUTYPES-TYPES 2020 Abstracts](https://types2020.di.unito.it/abstracts/BookOfAbstractsTYPES2020.pdf)]
 
 ### 2019
 * **Title:** Integration of time in a quantum process algebra (Msc. thesis)
