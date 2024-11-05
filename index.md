@@ -32,7 +32,7 @@ probabilistic and quantum.
 
   **Authors:** Manisha Jain, Vítor Fernandes, Alexandre Madeira
   
-  **File:** AILA24 proceedings (to be published)
+  **File:** [[AILA24 proceedings](https://link.springer.com/book/9789819603534)] (to be published)
 
 #### 2021
 * **Title:** Quantum simulation of the ground-state Stark effect in small molecules: a case study using IBM Q
