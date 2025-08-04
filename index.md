@@ -18,54 +18,79 @@ title:
 * Semantics of concurrent programming languages mixed with different effects, specifically:
 probabilistic and quantum.
 
-### Work
-#### 2024
-* **Title:** Non-deterministic, Probabilistic, and Quantum Effects Through the Lens of Event Structures
+### Publications
+* #### 2025
+    * **Title:** Exploring a quantum programming language with concurrency
 
-  **Authors:** Vítor Fernandes, Marc de Visme, Benoît Valiron
+      **Authors:** Manisha Jain, Vítor Fernandes, Alexandre Madeira, Luís S. Barbosa
   
-  **File:** [[Technical report](https://arxiv.org/abs/2408.14563)]
+      **Conference:** [\<Programming\> (QP Workshop)](https://2025.programming-conference.org/home/qp-2025)
+
+      **File:** [[Proceedings of QP25]](https://2025.programming-conference.org/home/qp-2025#event-overview) (To be published)
+
+
+* #### 2024
+    * **Title:** Non-deterministic, Probabilistic, and Quantum Effects Through the Lens of Event Structures
+
+      **Authors:** Vítor Fernandes, Marc de Visme, Benoît Valiron
+
+      **Conference:** [APLAS24](https://conf.researchr.org/home/aplas-2024)
+  
+      **File:** [[Technical report](https://arxiv.org/abs/2408.14563)]
             [[APLAS24 proceedings](https://books.google.pt/books?hl=pt-PT&lr=&id=s8IsEQAAQBAJ&oi=fnd&pg=PA196&dq=related:KRccoqxfmx4J:scholar.google.com/&ots=t7bxpyaDP2&sig=yKzpe6XoXMGCmxui3kcnjglJ_XM&redir_esc=y#v=onepage&q&f=false)]
 
 
-* **Title:** Adding concurrency to Quantum Dynamic Logic
+    * **Title:** Adding concurrency to Quantum Dynamic Logic
 
-  **Authors:** Manisha Jain, Vítor Fernandes, Alexandre Madeira
+      **Authors:** Manisha Jain, Vítor Fernandes, Alexandre Madeira
+
+      **Conference:** [AILA24](http://ailasym.com/AILA2024/AILA2024.html) 
   
-  **File:** [[AILA24 proceedings](https://link.springer.com/book/9789819603534)]
+      **File:** [[AILA24 proceedings](https://link.springer.com/book/9789819603534)]
 
-#### 2021
-* **Title:** Quantum simulation of the ground-state Stark effect in small molecules: a case study using IBM Q
+* #### 2021
+    * **Title:** Quantum simulation of the ground-state Stark effect in small molecules: a case study using IBM Q
 
-  **Authors:** Carlos Tavares, Sofia Oliveira, Vitor Fernandes, Andrei Postnikov, Mikhail Vasilevskiy
+      **Authors:** Carlos Tavares, Sofia Oliveira, Vitor Fernandes, Andrei Postnikov, Mikhail Vasilevskiy
   
-  **File:** [[pdf](https://repositorium.sdum.uminho.pt/bitstream/1822/91179/1/Soft_Computing_2021_Quantum_Simulation.pdf)]
+      **File:** [[pdf](https://repositorium.sdum.uminho.pt/bitstream/1822/91179/1/Soft_Computing_2021_Quantum_Simulation.pdf)]
 
 
-* **Title:** Calculation of the ground-state Stark effect in small molecules using the variational quantum eigensolver
+    * **Title:** Calculation of the ground-state Stark effect in small molecules using the variational quantum eigensolver
 
-  **Authors:** Carlos Tavares, Sofia Oliveira, Vitor Fernandes, Andrei Postnikov, Mikhail Vasilevskiy
+      **Authors:** Carlos Tavares, Sofia Oliveira, Vitor Fernandes, Andrei Postnikov, Mikhail Vasilevskiy
   
-  **File:** [[pdf](https://arxiv.org/pdf/2103.11743)]
+      **File:** [[pdf](https://arxiv.org/pdf/2103.11743)]
 
-### 2020
-* **Title:** A type system for simple quantum processes
+* ### 2020
+    * **Title:** A type system for simple quantum processes
 
-  **Authors:** Vítor Fernandes, Renato Neves, Luís Soares Barbosa
+      **Authors:** Vítor Fernandes, Renato Neves, Luís Soares Barbosa
+
+      **Conference:** [TYPES2020](https://types2020.di.unito.it/)
   
-  **File:** [[pdf](https://klee.di.uminho.pt/pdfs/FNB20.pdf)]
+      **File:** [[pdf](https://klee.di.uminho.pt/pdfs/FNB20.pdf)]
   	    [[EUTYPES-TYPES 2020 Abstracts](https://types2020.di.unito.it/abstracts/BookOfAbstractsTYPES2020.pdf)]
 
-### 2019
-* **Title:** Integration of time in a quantum process algebra (Msc. thesis)
+* ### 2019
+    * **Title:** Integration of time in a quantum process algebra (Msc. thesis)
 
-  **Authors:** Vítor Fernandes
+      **Authors:** Vítor Fernandes
 
-  **Supervisors:** Renato Neves, Luís Soares Barbosa
+      **Supervisors:** Renato Neves, Luís Soares Barbosa
   
-  **File:** [[pdf](https://klee.di.uminho.pt/pdfs/V19.pdf)]
+      **File:** [[pdf](https://klee.di.uminho.pt/pdfs/V19.pdf)]
 
 ### Supervision
-* Maria Inês Machado (2023; co-supervision)
+* ### 2023
+    * **Student name:** Inês Dias
 
+      **Role:** co-supervision (MSc. dissertation)
+
+      **Title:** An interpreter for a concurrent quantum language
+  
+### Teaching
+* **24/25**
+    * **Quantum Logic** (TP): ZX-Calculus, 4th year MSc in Physics Engineering
+    * **Imperative Programming** (TP): C language, 1st year Computer Science and 2nd year Physics Engineering
 
