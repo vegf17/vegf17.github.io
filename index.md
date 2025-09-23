@@ -26,7 +26,7 @@ probabilistic and quantum.
   
       **Conference:** [\<Programming\> (QP Workshop)](https://2025.programming-conference.org/home/qp-2025)
 
-      **File:** [[Proceedings of QP25]](https://2025.programming-conference.org/home/qp-2025#event-overview) (To be published)
+      **File:** [[Proceedings of QP25]](https://drops.dagstuhl.de/storage/01oasics/oasics-vol134-programming2025/OASIcs.Programming.2025.16/OASIcs.Programming.2025.16.pdf)
 
 
 * #### 2024
