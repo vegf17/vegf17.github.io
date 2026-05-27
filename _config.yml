@@ -33,6 +33,14 @@ baseurl: ""
 navigation_header:
 - title: Home
   url: /
+- title: Projects
+  url: /projects/
+- title: Publications
+  url: /publications/
+- title: Teaching
+  url: /teaching/
+- title: Contact
+  url: /contact/
 
 navigation_footer:
 - title: Back to top

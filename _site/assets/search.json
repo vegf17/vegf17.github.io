@@ -8,5 +8,33 @@
   
   
   
+  {
+    "title": "Contact",
+    "excerpt": "\n",
+    "content": "You can contact me by email or find more of my work through the links below.\n\n\n  Email: vegf17 at gmail dot com\n  GitHub: vegf17\n  LinkedIn: Vítor Fernandes\n  CV: See my CV\n\n",
+    "url": "/contact/"
+  },
+  
+  {
+    "title": "Projects",
+    "excerpt": "\n",
+    "content": "\n\n\n  qProbConc\n\n\nqProbConc is a Haskell interpreter for a concurrent, probabilistic, and quantum programming language.\n\nThe project is connected to my research on the semantics of programming languages combining concurrency with probabilistic and quantum effects.\n\n\n\n\n  GitHub Playground\n\n\nThe GitHub playground contains small projects and exercises related to topics I am currently learning or exploring, including Python, quantum programming frameworks, and other programming experiments.\n\n",
+    "url": "/projects/"
+  },
+  
+  {
+    "title": "Publications",
+    "excerpt": "\n",
+    "content": "2025\n\n\n  \n    Exploring a Quantum Programming Language with Concurrency\n  \n\n\nAuthors: Manisha Jain, Vítor Fernandes, Alexandre Madeira, Luís S. Barbosa.\n\nConference: QP 2025, co-located with &lt;Programming&gt; 2025.\n\n[Proceedings of QP25]\n\n\n\n2024\n\n\n  \n    Non-deterministic, Probabilistic, and Quantum Effects Through the Lens of Event Structures\n  \n\n\nAuthors: Vítor Fernandes, Marc de Visme, Benoît Valiron.\n\nConference: APLAS 2024.\n\n[Technical report]\n[APLAS 2024 proceedings]\n\n\n\n\n  \n    Adding Concurrency to Quantum Dynamic Logic\n  \n\n\nAuthors: Manisha Jain, Vítor Fernandes, Alexandre Madeira.\n\nConference: AILA 2024.\n\n[AILA 2024 proceedings]\n\n\n\n2021\n\n\n  \n    Quantum Simulation of the Ground-State Stark Effect in Small Molecules: A Case Study Using IBM Q\n  \n\n\nAuthors: Carlos Tavares, Sofia Oliveira, Vítor Fernandes, Andrei Postnikov, Mikhail Vasilevskiy.\n\nPublished in Soft Computing.\n\n[PDF]\n\n\n\n\n  \n    Calculation of the Ground-State Stark Effect in Small Molecules Using the Variational Quantum Eigensolver\n  \n\n\nAuthors: Carlos Tavares, Sofia Oliveira, Vítor Fernandes, Andrei Postnikov, Mikhail Vasilevskiy.\n\n[PDF]\n\n\n\n2020\n\n\n  \n    A Type System for Simple Quantum Processes\n  \n\n\nAuthors: Vítor Fernandes, Renato Neves, Luís Soares Barbosa.\n\nConference: TYPES 2020.\n\n[PDF]\n[EUTYPES-TYPES 2020 Abstracts]\n\n\n\n2019\n\n\n  \n    Integration of Time in a Quantum Process Algebra\n  \n\n\nMSc thesis.\n\nAuthor: Vítor Fernandes.\n\nSupervisors: Renato Neves, Luís Soares Barbosa.\n\n[PDF]\n",
+    "url": "/publications/"
+  },
+  
+  {
+    "title": "Teaching Duties and Supervision",
+    "excerpt": "\n",
+    "content": "Teaching\n\n2024/2025\n\n\n  \n    Quantum Logic\n  \n\n\nRole: Tutorials and practical sessions.\n\nTopic: ZX-Calculus.\n\nProgramme: 1st year MSc in Physics Engineering.\n\n\n\n\n  \n    Imperative Programming\n  \n\n\nRole: Tutorials and practical sessions.\n\nTopic: C programming.\n\nProgramme: 1st year Computer Science and 2nd year Physics Engineering.\n\n\n\nSupervision\n\n2023\n\n\n  \n    An Interpreter for a Concurrent Quantum Language\n  \n\n\nStudent: Inês Dias.\n\nRole: Co-supervisor, MSc dissertation.\n\n[PDF]\n",
+    "url": "/teaching/"
+  }
+  
 ]
 
