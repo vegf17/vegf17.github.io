@@ -1,13 +1,37 @@
 ---
 title: 
-#feature_text: |
-  ## Alembic
-#  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-# feature_image: "images/prometeu.jpeg"
-#excerpt: ""
 ---
 
-<img src="images/1.jpg" width="250">
+<div class="profile-header">
+  <img class="profile-photo" src="images/1.jpg" width="250" alt="Vítor Fernandes">
+
+  <div class="profile-card">
+    <a class="profile-item" href="https://www.linkedin.com/in/vitor-fernandes-572626153/" aria-label="LinkedIn">
+      <span class="profile-label">LinkedIn</span>
+      <span class="profile-icon">
+        {% include icon.html id="linkedin" title="LinkedIn" %}
+      </span>
+    </a>
+
+    <a class="profile-item" href="https://github.com/vegf17" aria-label="GitHub">
+      <span class="profile-label">GitHub</span>
+      <span class="profile-icon">
+        {% include icon.html id="github" title="GitHub" %}
+      </span>
+    </a>
+
+    <a class="profile-item" href="/docs/cvVitorFernandes.pdf" target="_blank" aria-label="View CV">
+      <span class="profile-label">CV</span>
+      <span class="profile-icon profile-cv-icon">📜</span>
+    </a>
+
+    <div class="profile-item profile-mail">
+      <span class="profile-label">Mail</span>
+      <span class="profile-email">vegf17 at gmail dot com</span>
+    </div>
+  </div>
+</div>
+
 
 # Vítor Fernandes
 
