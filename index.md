@@ -56,7 +56,8 @@ GitHub](https://github.com/vegf17/playground).
 
 ## Research Interests
 
-My research interests lie at the intersection of programming language semantics, concurrency theory, probabilistic computation, and quantum programming languages.
+My research interests lie at the intersection of programming language semantics, concurrency theory,
+probabilistic computation, and quantum programming languages.
 
 * Semantics of concurrent programming languages with probabilistic and/or quantum effects
 * Event structures as denotational models for concurrent languages
